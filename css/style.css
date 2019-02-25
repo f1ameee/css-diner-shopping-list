@@ -1,4 +1,14 @@
 *{transition: all .1s ease-in;}
+* {
+    box-sizing: border-box;
+   }
+   html {
+    height: 100%;
+   }
+   html,
+   body {
+    min-height: 100%;
+   }
 body{
     background-color: #3B3F45;
     color: #fff;
